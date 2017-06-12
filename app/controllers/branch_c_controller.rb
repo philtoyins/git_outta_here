@@ -14,4 +14,8 @@ class BranchCController < ApplicationController
   def c4
     
   end
+
+  def c7
+    
+  end
 end
