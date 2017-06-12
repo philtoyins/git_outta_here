@@ -16,6 +16,10 @@ class BranchBController < ApplicationController
   end
 
   def b5
+
+  end
+
+  def b5_branch_c
     
   end
 end
