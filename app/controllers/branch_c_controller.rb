@@ -22,4 +22,16 @@ class BranchCController < ApplicationController
   def c8
     
   end
+
+  def c9
+    
+  end
+
+  def c10
+    
+  end
+
+  def c11
+    
+  end
 end
