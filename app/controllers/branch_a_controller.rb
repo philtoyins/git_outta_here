@@ -1,5 +1,13 @@
 class BranchAController < ApplicationController
-  def index
+  def a1
+    
+  end
+
+  def a2
+    
+  end
+
+  def a3
     
   end
 end
