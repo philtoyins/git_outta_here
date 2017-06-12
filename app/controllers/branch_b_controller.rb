@@ -10,4 +10,8 @@ class BranchBController < ApplicationController
   def b3
     
   end
+
+  def b4
+    
+  end
 end
