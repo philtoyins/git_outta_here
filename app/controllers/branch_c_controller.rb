@@ -1,5 +1,9 @@
 class BranchCController < ApplicationController
-  def c
+  def c1
+    
+  end
+
+  def c2
     
   end
 end
